@@ -1,6 +1,11 @@
 ############################################ 
-# 
+#
 # TCL generation of history
+#
+#This code was written by Nandkshor Motiram Dhawale, Jan 12nd 2009.
+#This code is written to perform calibration of the Z direction movement of XPS motion stage platform
+#The problem statement was given by the my MASc. studies advisor Dr. R. Wuthrich from Department of
+# Mechanical and Industrial Engineering at Concordia University, Montreal, QC. Canada
 # 
 ############################################ 
  #Display error and close procedure
