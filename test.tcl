@@ -1,6 +1,11 @@
 ############################################ 
-# 
+#
 # TCL generation of history
+#
+#This code was written by Nandkishor Motiram Dhawale, Dec 13th 2008.
+#This code is written to check the movements of XPS motion stage platform
+#The problem statement was given by the my MASc. studies advisor Dr. R. Wuthrich from Department of
+# Mechanical and Industrial Engineering at Concordia University, Montreal, QC. Canada
 # 
 ############################################ 
  #Display error and close procedure
