@@ -1,4 +1,13 @@
-proc FindZero {socketID Z} {
+############################################ 
+#
+# TCL generation of history
+#
+#This code was written by Nandkshor Motiram Dhawale, Jan 10th 2009.
+#This code is written to find zero (touching the workpiece) in the Z direction movement of XPS motion stage platform
+#The problem statement was given by the my MASc. studies advisor Dr. R. Wuthrich from Department of
+# Mechanical and Industrial Engineering at Concordia University, Montreal, QC. Canada
+# 
+############################################ proc FindZero {socketID Z} {
 
 puts "start FindZero"
   upvar $Z Zfinal 
